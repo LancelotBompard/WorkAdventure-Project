@@ -969,55 +969,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":321,
-         "source":"..\/Personal tileset.tsx"
-        }, 
-        {
-         "columns":1,
-         "firstgid":322,
-         "image":"..\/..\/..\/Downloads\/New Piskel (2).png",
-         "imageheight":32,
-         "imagewidth":32,
-         "margin":0,
-         "name":"New Piskel (2)",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "firstgid":323,
-         "source":"number 3.tsx"
-        }, 
-        {
-         "firstgid":324,
-         "source":"number 4.tsx"
-        }, 
-        {
-         "firstgid":325,
-         "source":"number 5.tsx"
-        }, 
-        {
-         "firstgid":326,
-         "source":"number 6.tsx"
-        }, 
-        {
-         "firstgid":327,
-         "source":"number 7.tsx"
-        }, 
-        {
-         "firstgid":328,
-         "source":"number 8.tsx"
-        }, 
-        {
-         "firstgid":329,
-         "source":"number 9.tsx"
-        }, 
-        {
-         "firstgid":330,
-         "source":"number 0.tsx"
         }],
  "tilewidth":32,
  "type":"map",
