@@ -945,23 +945,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":321,
-         "source":"Personal tileset.tsx"
-        }, 
-        {
-         "columns":1,
-         "firstgid":322,
-         "image":"..\/..\/Downloads\/New Piskel (10).png",
-         "imageheight":32,
-         "imagewidth":32,
-         "margin":0,
-         "name":"number 0",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
