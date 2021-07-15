@@ -67,7 +67,6 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "width":80,
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/2-technical-trends\/radars\/cloud\/"
                 }],
          "type":"tilelayer",
@@ -393,6 +392,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/website-gts-tsi-tsn.pogp.dns20.socgen\/tsn\/4-strategy-orientations\/application_hosting\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
