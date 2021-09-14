@@ -294,7 +294,7 @@
         {
          "columns":3,
          "firstgid":1,
-         "image":"src\/assets\/numbers_transparent.bmp",
+         "image":".\/numbers_transparent.bmp",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -307,7 +307,7 @@
         {
          "columns":8,
          "firstgid":13,
-         "image":"src\/assets\/floortileset.png",
+         "image":".\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -330,7 +330,7 @@
         {
          "columns":16,
          "firstgid":77,
-         "image":"src\/assets\/tilesets_deviant_milkian_1.png",
+         "image":".\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
